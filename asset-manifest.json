@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.18ca2701.chunk.css",
+    "main.js": "/portfolio/static/js/main.8005429f.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.8005429f.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.fb1b3dac.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.fb1b3dac.js.map",
+    "static/js/2.a617a02f.chunk.js": "/portfolio/static/js/2.a617a02f.chunk.js",
+    "static/js/2.a617a02f.chunk.js.map": "/portfolio/static/js/2.a617a02f.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.6684c8122d9910558b6bc0daefd21a2f.js": "/portfolio/precache-manifest.6684c8122d9910558b6bc0daefd21a2f.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.18ca2701.chunk.css.map": "/portfolio/static/css/main.18ca2701.chunk.css.map",
+    "static/js/2.a617a02f.chunk.js.LICENSE.txt": "/portfolio/static/js/2.a617a02f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/portfolio/static/media/Sentinel-Medium.a1d65c5b.otf",
+    "static/media/applicantOverview.svg": "/portfolio/static/media/applicantOverview.52c1236b.svg",
+    "static/media/companyDisplay.png": "/portfolio/static/media/companyDisplay.c9c8a215.png",
+    "static/media/createJobVideo.mp4": "/portfolio/static/media/createJobVideo.2409c81e.mp4",
+    "static/media/flashcardsVideo.mp4": "/portfolio/static/media/flashcardsVideo.4093cd9d.mp4",
+    "static/media/highlightsOverviewVideo.mp4": "/portfolio/static/media/highlightsOverviewVideo.3b9781d6.mp4",
+    "static/media/highlightsVideo.mp4": "/portfolio/static/media/highlightsVideo.21e22423.mp4",
+    "static/media/mafiaBird.png": "/portfolio/static/media/mafiaBird.00226647.png",
+    "static/media/mafiaworm.png": "/portfolio/static/media/mafiaworm.1a6cfdf3.png",
+    "static/media/newApplicants.png": "/portfolio/static/media/newApplicants.54d8051d.png",
+    "static/media/offer.svg": "/portfolio/static/media/offer.f6863e86.svg",
+    "static/media/orbiteer1.mp4": "/portfolio/static/media/orbiteer1.b1e8c847.mp4",
+    "static/media/orbiteer1.svg": "/portfolio/static/media/orbiteer1.b8e2f416.svg",
+    "static/media/orbiteer2.mp4": "/portfolio/static/media/orbiteer2.73c502ea.mp4",
+    "static/media/orbiteer2.svg": "/portfolio/static/media/orbiteer2.e3599be9.svg",
+    "static/media/search.svg": "/portfolio/static/media/search.601c12a0.svg",
+    "static/media/setAppointment.svg": "/portfolio/static/media/setAppointment.df9b5ea2.svg",
+    "static/media/sidebarVideo.mp4": "/portfolio/static/media/sidebarVideo.5e6a8ffe.mp4",
+    "static/media/slashVideo.mp4": "/portfolio/static/media/slashVideo.4ba8fb90.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb1b3dac.js",
+    "static/js/2.a617a02f.chunk.js",
+    "static/css/main.18ca2701.chunk.css",
+    "static/js/main.8005429f.chunk.js"
+  ]
+}
